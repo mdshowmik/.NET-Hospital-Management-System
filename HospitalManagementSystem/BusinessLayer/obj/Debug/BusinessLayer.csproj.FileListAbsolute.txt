@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\HospitalManagementSystem\DBConnection\bin\Debug\DBConnection.dll
+C:\Users\ASUS\Desktop\HospitalManagementSystem\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\ASUS\Desktop\HospitalManagementSystem\DBConnection\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\HospitalManagementSystem\DBConnection\obj\Debug\DBConnection.dll
+C:\Users\ASUS\Desktop\HospitalManagementSystem\DBConnection\obj\Debug\DBConnection.pdb
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\BusinessLayer\bin\Debug\DBConnection.dll
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\BusinessLayer\bin\Debug\DBConnection.pdb
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\BusinessLayer\bin\Debug\Oracle.DataAccess.dll
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\BusinessLayer\obj\Debug\DBConnection.dll
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\BusinessLayer\obj\Debug\DBConnection.pdb
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\BusinessLayer\bin\Debug\DBConnection.dll
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\BusinessLayer\bin\Debug\DBConnection.pdb
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\BusinessLayer\obj\Debug\DBConnection.dll
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\BusinessLayer\obj\Debug\DBConnection.pdb

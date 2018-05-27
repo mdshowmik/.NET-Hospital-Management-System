@@ -1,0 +1,22 @@
+C:\Users\ASUS\Desktop\HospitalManagementSystem\DBAccess\bin\Debug\DBAccess.dll
+C:\Users\ASUS\Desktop\HospitalManagementSystem\DBAccess\bin\Debug\DBAccess.pdb
+C:\Users\ASUS\Desktop\HospitalManagementSystem\DBAccess\bin\Debug\DBConnection.dll
+C:\Users\ASUS\Desktop\HospitalManagementSystem\DBAccess\bin\Debug\DBConnection.pdb
+C:\Users\ASUS\Desktop\HospitalManagementSystem\DBAccess\obj\Debug\DBAccess.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\HospitalManagementSystem\DBAccess\obj\Debug\DBAccess.dll
+C:\Users\ASUS\Desktop\HospitalManagementSystem\DBAccess\obj\Debug\DBAccess.pdb
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\DBAccess\bin\Debug\DBAccess.dll
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\DBAccess\bin\Debug\DBAccess.pdb
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\DBAccess\bin\Debug\DBConnection.dll
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\DBAccess\bin\Debug\Oracle.DataAccess.dll
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\DBAccess\bin\Debug\DBConnection.pdb
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\DBAccess\obj\Debug\DBAccess.csprojResolveAssemblyReference.cache
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\DBAccess\obj\Debug\DBAccess.dll
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\DBAccess\obj\Debug\DBAccess.pdb
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\DBAccess\bin\Debug\DBAccess.dll
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\DBAccess\bin\Debug\DBAccess.pdb
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\DBAccess\bin\Debug\DBConnection.dll
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\DBAccess\bin\Debug\DBConnection.pdb
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\DBAccess\obj\Debug\DBAccess.csprojResolveAssemblyReference.cache
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\DBAccess\obj\Debug\DBAccess.dll
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\DBAccess\obj\Debug\DBAccess.pdb

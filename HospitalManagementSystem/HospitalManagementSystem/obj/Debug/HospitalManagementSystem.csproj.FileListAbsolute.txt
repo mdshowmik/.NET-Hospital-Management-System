@@ -1,0 +1,57 @@
+C:\Users\ASUS\Desktop\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+C:\Users\ASUS\Desktop\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+C:\Users\ASUS\Desktop\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+C:\Users\ASUS\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+C:\Users\ASUS\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+C:\Users\ASUS\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+C:\Users\ASUS\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.HospitalManagementForm.resources
+C:\Users\ASUS\Desktop\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\DBAccess.dll
+C:\Users\ASUS\Desktop\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\DBConnection.dll
+C:\Users\ASUS\Desktop\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\DBAccess.pdb
+C:\Users\ASUS\Desktop\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\DBConnection.pdb
+C:\Users\ASUS\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.AdminForm.resources
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\DBAccess.dll
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\DBConnection.dll
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\Oracle.DataAccess.dll
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\DBAccess.pdb
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\DBConnection.pdb
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojResolveAssemblyReference.cache
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.AdminForm.resources
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.HospitalManagementForm.resources
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.Cache
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+E:\STUDY\9TH SEMESTER\Advance Database Management System\Project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+C:\Users\ASUS\Downloads\HospitalManagementSystem\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+C:\Users\ASUS\Downloads\HospitalManagementSystem\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+C:\Users\ASUS\Downloads\HospitalManagementSystem\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+C:\Users\ASUS\Downloads\HospitalManagementSystem\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+C:\Users\ASUS\Downloads\HospitalManagementSystem\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+C:\Users\ASUS\Downloads\HospitalManagementSystem\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\DBAccess.dll
+C:\Users\ASUS\Downloads\HospitalManagementSystem\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\DBConnection.dll
+C:\Users\ASUS\Downloads\HospitalManagementSystem\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\DBConnection.pdb
+C:\Users\ASUS\Downloads\HospitalManagementSystem\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\DBAccess.pdb
+C:\Users\ASUS\Downloads\HospitalManagementSystem\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\HospitalManagementSystem\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.AdminForm.resources
+C:\Users\ASUS\Downloads\HospitalManagementSystem\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.HospitalManagementForm.resources
+C:\Users\ASUS\Downloads\HospitalManagementSystem\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+C:\Users\ASUS\Downloads\HospitalManagementSystem\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.Cache
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\DBAccess.dll
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\DBConnection.dll
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\DBConnection.pdb
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\DBAccess.pdb
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojResolveAssemblyReference.cache
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.AdminForm.resources
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.HospitalManagementForm.resources
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+F:\isra\9th semester\ADBMS\project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.Cache
